@@ -1,5 +1,6 @@
 ### Olá. Eu meu nome é Kevin Halley. Bem-vindo(a) ao meu perfil. 😁
 
+### Atualmente aprendendo POO, JS e C.
 
 
 
