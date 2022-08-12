@@ -1,4 +1,4 @@
-# Hello, there! My name is Kevin Halley and welcome to my profile. 😁
+# Hello, there! My name is Kevin and welcome to my profile. 😁
 
 ### Currently learning OOP, JS e Node.js.
 <br>
