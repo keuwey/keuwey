@@ -1,6 +1,7 @@
 # Hello, there! My name is Kevin and welcome to my profile. 😁
+### Student in the final year of the integrated technical course in industrial automation at IFBA, trying to get the first vacancy for junior developer.
 
-### Currently learning OOP, JS e Node.js.
+## Currently learning OOP, JS e Node.js.
 <br>
 <div>
   <a href="https://github.com/keuwey">
