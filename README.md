@@ -1,4 +1,4 @@
-# Hello, there! My name is Kevin and welcome to my profile. 😁 <br> I'm a front-end developer looking for an opportunity. Currently learning React and Node.js.
+# Hello, there! My name is Kevin and welcome to my profile. 😁 <br> I'm a front-end developer in development. Currently learning React, Node.js and Express.
 <br>
 <div>
   <a href="https://github.com/keuwey">
