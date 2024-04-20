@@ -1,4 +1,4 @@
-# Hello, there! My name is Kevin and welcome to my profile. 😁 <br> I'm a front-end developer in development. Currently learning React, Node.js, Express and Java.
+# Hello, there! My name is Kevin and welcome to my profile. 😁 <br> I'm a front-end developer in development. Currently learning Angular, Python and Java.
 <br>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 <div>
