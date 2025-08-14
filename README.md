@@ -1,4 +1,4 @@
-# Hello, there! My name is Kevin and welcome to my profile. 😁 <br> I'm a front-end developer in development. Currently learning Angular, Python and Java.
+# Hello, there! <br> I'm a Computer Science student currently learning web development.
 <br>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 <div>
@@ -16,13 +16,14 @@
   <img align="center" alt="React icon" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <!-- <img align="center" alt="Nodejs icon" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> -->
   <!-- <img align="center" alt="MySQL icon" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /> -->
-  <img align="center" alt="MongoDB icon" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" />
+  <!-- <img align="center" alt="MongoDB icon" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" /> -->
   <img align="center" alt="Java icon" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
   <img align="center" alt"bootstrap icon" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
   <!-- <img align="center" alt"SASS icon" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /> -->
   <img align="center" alt="Python icon" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
   <img align="center" alt="Flask icon" height="50" width="60" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/flask/flask-original.svg" />
   <img align="center" alt="FastAPI icon" height="50" width="60" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/fastapi/fastapi-plain.svg" />
+  <img align="center" alt="SQLite icon" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" />
   <img align="center" alt="Git icon" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </div>
 <br>
